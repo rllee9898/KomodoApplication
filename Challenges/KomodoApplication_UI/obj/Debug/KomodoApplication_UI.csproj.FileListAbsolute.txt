@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\obj\Debug\KomodoApplication_UI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\obj\Debug\KomodoApplication_UI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\bin\Debug\KomodoApplication_UI.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\bin\Debug\KomodoApplication_UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\bin\Debug\KomodoApplication_UI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\bin\Debug\Komodo  Application.dll
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\bin\Debug\Komodo  Application.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\obj\Debug\KomodoApplication_UI.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\obj\Debug\KomodoApplication_UI.exe
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\Challenges\KomodoApplication_UI\obj\Debug\KomodoApplication_UI.pdb
